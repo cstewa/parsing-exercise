@@ -1,0 +1,5 @@
+require "pry"
+require "pry-debugger"
+require "soundcloud"
+require "nokogiri"
+require "open-uri"
